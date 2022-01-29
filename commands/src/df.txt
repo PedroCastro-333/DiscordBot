@@ -1,0 +1,19 @@
+URL = x: 421 y:51
+
+scroll_inicial = x: 1360 y: 132
+
+scroll_final = x: 1360 y: 184
+
+Pegar_runa_inicial= x: 577 y: 223
+
+Pegar_runa_final= x: 787 y: 745
+
+clicar_print= x: 1199 y: 635
+
+clicar_salvar= x: 700 y:84
+
+clicar_nome= x: 345 y: 404
+
+clicar_salvar= x: 561 y: 472
+
+clicar_fechar = x:827 y: 48
